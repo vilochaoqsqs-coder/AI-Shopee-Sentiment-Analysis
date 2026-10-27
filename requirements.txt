@@ -1,0 +1,11 @@
+﻿pandas
+numpy
+scikit-learn
+torch
+transformers
+underthesea
+matplotlib
+seaborn
+streamlit
+gradio
+jupyter
